@@ -48,8 +48,13 @@ yarn start
 **Future Improvements**
 
 If given more time, the following improvements could be added:
--Save data to localStorage or a backend for persistence
--Add login functionality with user-specific time logs
+
+Save data to localStorage or a backend for persistence
+
+Add login functionality with user-specific time logs
+
 -Task categories, filtering, and sorting
+
 -Improved responsiveness for all devices
+
 -Unit and integration tests for reliability
