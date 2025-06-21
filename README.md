@@ -1,5 +1,5 @@
-⏱️ Time Tracker App
-Time Tracker App is a lightweight and intuitive time-tracking web application built with React and TypeScript. It allows users to log tasks and hours worked, view a list of all entries, and see the total hours accumulated — ideal for freelancers, students, or anyone looking to manage their productivity.
+**⏱️ Time Tracker App
+**Time Tracker App is a lightweight and intuitive time-tracking web application built with React and TypeScript. It allows users to log tasks and hours worked, view a list of all entries, and see the total hours accumulated — ideal for freelancers, students, or anyone looking to manage their productivity.
 
 🔧 Features
 Add new time entries (task name + hours worked)
