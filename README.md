@@ -23,6 +23,7 @@ Node.js (v16 or higher)
 
 npm or yarn
 
+
 **Installation**
 1. **Clone the repository**
 git clone https://github.com/Mbalsss/Time-Tracker-App.git
@@ -40,12 +41,15 @@ yarn start
 
 4. Open http://localhost:3000 in your browser to view the app.
 
+
 **Assumptions & Trade-Offs**
+
 Data is stored in React state (not persistent)
 
 Focus was on core functionality and clean code over advanced features
 
 Simple CSS used for styling without frameworks
+
 
 **Future Improvements**
 
