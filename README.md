@@ -41,9 +41,11 @@ yarn start
 4. Open http://localhost:3000 in your browser to view the app.
 
 **Assumptions & Trade-Offs**
--Data is stored in React state (not persistent)
--Focus was on core functionality and clean code over advanced features
--Simple CSS used for styling without frameworks
+Data is stored in React state (not persistent)
+
+Focus was on core functionality and clean code over advanced features
+
+Simple CSS used for styling without frameworks
 
 **Future Improvements**
 
@@ -53,8 +55,8 @@ Save data to localStorage or a backend for persistence
 
 Add login functionality with user-specific time logs
 
--Task categories, filtering, and sorting
+Task categories, filtering, and sorting
 
--Improved responsiveness for all devices
+Improved responsiveness for all devices
 
--Unit and integration tests for reliability
+Unit and integration tests for reliability
